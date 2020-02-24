@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ContactList>
+    <Contact>
+        <name>Alexander</name>
+        <phone_number>4047848970</phone_number>
+        <email>n/a</email>
+    </Contact>
+    <Contact>
+        <name>John</name>
+        <phone_number>5432453245</phone_number>
+        <email>john@gmail.com</email>
+    </Contact>
+</ContactList>
